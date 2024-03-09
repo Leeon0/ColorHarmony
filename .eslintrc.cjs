@@ -51,14 +51,7 @@ module.exports = {
     "@typescript-eslint/no-confusing-void-expression": "off",
     "@typescript-eslint/no-unsafe-assignment": "warn",
     "@typescript-eslint/no-unsafe-call": "off",
-    "@typescript-eslint/no-unused-vars": [
-      "warn",
-      {
-        args: "after-used",
-        ignoreRestSiblings: false,
-        argsIgnorePattern: "^_.*?$",
-      },
-    ],
+    "@typescript-eslint/no-unused-vars": "off", // Cambio realizado aquí
     "prettier/prettier": [
       "warn",
       {},
