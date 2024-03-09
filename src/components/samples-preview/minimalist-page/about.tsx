@@ -42,7 +42,7 @@ export function About() {
     <section className={container()} style={applyStyle("color")}>
       <p className={classes.body}>
         <span className={classes.bodyLabel}>About</span>
-        I'm Feid, Hey there, I'm Feid. I'm a singer known for blending reggaeton, trap, and Latin pop into my music. I'm all about connecting with my fans through my songs, which often touch on themes like love and personal experiences. Collaborating with other artists and experimenting with different sounds keeps my music fresh and exciting. It's a journey I'm thrilled to be on, and I'm grateful for the support of my fans every step of the way.
+        I&apos;m Feid, Hey there, I&apos;m Feid. I&apos;m a singer known for blending reggaeton, trap, and Latin pop into my music. I&apos;m all about connecting with my fans through my songs, which often touch on themes like love and personal experiences. Collaborating with other artists and experimenting with different sounds keeps my music fresh and exciting. It&apos;s a journey I&apos;m thrilled to be on, and I&apos;m grateful for the support of my fans every step of the way.
       </p>
       <div className={classes.links}>
         <ul className={classes.linksGroup}>
