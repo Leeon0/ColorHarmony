@@ -1,7 +1,7 @@
 "use client";
 
 import { useMediaQuery } from "@uidotdev/usehooks";
-import { css } from "@styled-system/css";
+import { css } from "@root/styled-system/css";
 
 import { Suggestions } from "@/components/suggestions";
 import { SkeletonSuggestions } from "@/components/skeleton-suggestions";
