@@ -29,10 +29,10 @@ export function Sample3() {
       <div>
         <div className={classes.content}>
           <p className={classes.title} style={applyStyle("color")}>
-          Discover the full stack trends for 2024! 🚀
+            Discover the full stack trends for 2024! 🚀
           </p>
-          <p className={classes.desc} style={applyStyle("color")}>          
-          Explore the benefits of leveraging React, Svelte, Angular, Vue, Node.js, Express.js, Django, Flask, ASP.NET, and Spring Boot in full stack development. Don't miss out!.
+          <p className={classes.desc} style={applyStyle("color")}>
+            Explore the benefits of leveraging React, Svelte, Angular, Vue, Node.js, Express.js, Django, Flask, ASP.NET, and Spring Boot in full stack development. Don&apos;t miss out!
             <span> #react #svelte #angular #vue #nodejs #expressjs #django #flask #aspnet #springboot</span>
           </p>
         </div>
